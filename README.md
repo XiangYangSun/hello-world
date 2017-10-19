@@ -1,2 +1,2 @@
 # hello-world
-a simplist
+i like Node.js and javascript
